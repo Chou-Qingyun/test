@@ -1,0 +1,16 @@
+<rows>
+	<page>1</page><total>1</total>
+	<row id='1'>
+		<cell><![CDATA[<a class='btn blue' href='index.php?act=member&op=member_edit&member_id=1'><i class='fa fa-pencil-square-o'></i>编辑</a>
+			<a href='javascript:submit_delete(1);' class='btn red'><i class='fa fa-trash-o'></i>删除</a>]]></cell>
+		<cell><![CDATA[1]]></cell>
+		<cell><![CDATA[<img src=http://localhost/b2c/data/upload/shop/common/default_user_portrait.gif class='user-avatar' onMouseOut='toolTip()' onMouseOver='toolTip("<img src=http://localhost/b2c/data/upload/shop/common/default_user_portrait.gif>")'>admin]]></cell>
+		<cell><![CDATA[]]></cell>
+		<cell><![CDATA[]]></cell><cell><![CDATA[]]></cell>
+		<cell><![CDATA[]]></cell><cell><![CDATA[]]></cell>
+		<cell><![CDATA[2016-12-06]]></cell>
+		<cell><![CDATA[2017-06-05]]></cell>
+		<cell><![CDATA[]]></cell>
+		<cell><![CDATA[<span class="yes"><i class="fa fa-check-circle"></i>是</span>]]></cell>
+	</row>
+</rows>
